@@ -1,4 +1,3 @@
-USE University;
 CREATE TABLE Student (id bigint PRIMARY KEY, name varchar(255), birthday date, group int);
 CREATE TABLE Subject (id bigint PRIMARY KEY, name varchar(255), description varchar(255), grade int);
 CREATE TABLE PaymentType (id bigint PRIMARY KEY, name varchar(255));

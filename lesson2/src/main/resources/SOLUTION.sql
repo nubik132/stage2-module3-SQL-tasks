@@ -4,8 +4,8 @@ INSERT INTO student (name, birthday, groupnumber) VALUES
 ('Carl', '2000-11-13', 1)
 ('Oliver', '1999-11-11', 2),
 ('James', '1999-11-12', 2),
-('Lucas', '1999-11-13', 2)
-('Henry', '1999-11-14', 2)
+('Lucas', '1999-11-13', 2),
+('Henry', '1999-11-14', 2),
 ('Jacob', '1998-11-11', 3),
 ('Logan', '1998-11-13', 3),
 ('Bob', '1997-11-11', 4),
